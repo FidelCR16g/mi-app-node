@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/src":{"guestpath":"/home/vagrant/src","hostpath":"D:/Despliegue/express-pokemonsApi","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Despliegue/express-pokemonsApi","disabled":false,"__vagrantfile":true}}}
